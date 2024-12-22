@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:nijaat_app/common/screens/splash.dart';
-import 'package:nijaat_app/user/user_homepage.dart';
 
 void main() {
   runApp(const MyApp());

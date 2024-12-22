@@ -1,7 +1,6 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:nijaat_app/center/screens/center_sign_up.dart';
 import 'package:nijaat_app/user/user_signUp.dart';
 import 'package:nijaat_app/utils/custom_button.dart';
 import 'package:nijaat_app/utils/input_text_feild.dart';
