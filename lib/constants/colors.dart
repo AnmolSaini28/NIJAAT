@@ -13,3 +13,4 @@ const bottomIcons = Color(0xff8D8C88);
 const bottomText = Color(0xff000000);
 const headingColor = Color(0xff234850);
 const textFieldColor = Color(0xFFD9D9D9);
+const logobackcolor = Color(0xffFFFFFF);
